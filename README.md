@@ -4,7 +4,7 @@ Submitted by: **Anna Arcangel**
 
 **Trivia** is an app that ... fetches data using a trivia API. 
 
-Time spent: **X** hours spent in total
+Time spent: **2** hours spent in total
 
 ## Required Features
 
@@ -29,9 +29,11 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough
 
-Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove this reminder once you upload your README. 
 
-[Guide]](https://www.youtube.com/watch?v=GA92eKlYio4) .
+
+
+https://github.com/user-attachments/assets/3e9befa8-b991-44d3-9c5c-838d6bc8469a
+
 
 ## Notes
 
